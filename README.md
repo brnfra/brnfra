@@ -9,5 +9,5 @@
 
 - 👯 I’m looking to collaborate on some projects...
 
-![Bruno Franco GitHub Stats](https://github-readme-stats.vercel.app/api?username=brnfra&show_icons=true&hide=contribs,prs&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brnfra&layout=compact&theme=merko)](https://github.com/brnfra/github-readme-stats)
+![Bruno Franco GitHub Stats](https://github-readme-stats.vercel.app/api?username=brnfra&show_icons=true&hide=prs&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brnfra&layout=compact&theme=merko)](https://github.com/brnfra/github-readme-stats)
 
