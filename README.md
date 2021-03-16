@@ -8,5 +8,10 @@
 
 - 👯 I’m looking to collaborate on some projects...
 
+
+#### <img src="https://media.giphy.com/media/8FGMuS6Bj4MyP1NA5h/giphy.gif" width="50"> View my stats on Github <img src="https://media.giphy.com/media/8FGMuS6Bj4MyP1NA5h/giphy.gif" width="50">
+
+
+
 ![Bruno Franco GitHub Stats](https://github-readme-stats.vercel.app/api?username=brnfra&show_icons=true&hide=prs&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brnfra&layout=compact&theme=merko)](https://github.com/brnfra/github-readme-stats)
 
