@@ -16,17 +16,17 @@
 <div align="left" translate="yes">
   
     
-🌱 I’m currently learning and i'm a Software Engineering Student.<br> 
-🤔 I’m looking for help with Java for Android and PHP.<br> 
-👯 I’m looking to collaborate on some projects...<br>
-💬 Ask me about anything. Maybe i'll have the answer. Or not, anyway, will be a pleasure to help or talk. 
+&emsp;&emsp;&emsp;🌱 I’m currently learning and i'm a Software Engineering Student.<br> 
+&emsp;&emsp;&emsp;🤔 I’m looking for help with Java for Android and PHP.<br> 
+&emsp;&emsp;&emsp;👯 I’m looking to collaborate on some projects...<br>
+&emsp;&emsp;&emsp;💬 Ask me about anything. Maybe i'll have the answer. Or not, anyway, will be a pleasure to help or talk. 
     
 
 </div>
-
+<hr>
 <div align="center">
   
-#### <img src="https://media.giphy.com/media/8FGMuS6Bj4MyP1NA5h/giphy.gif" width="50"> View my stats on Github <img src="https://media.giphy.com/media/8FGMuS6Bj4MyP1NA5h/giphy.gif" width="50">
+<h3><img src="https://media.giphy.com/media/8FGMuS6Bj4MyP1NA5h/giphy.gif" width="50">&emsp;&emsp;View my stats on Github&emsp;&emsp;<img src="https://media.giphy.com/media/8FGMuS6Bj4MyP1NA5h/giphy.gif" width="50"></h3>
 </div>
 
 <div align="center">
