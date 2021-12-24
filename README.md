@@ -17,7 +17,7 @@
   
     
 &emsp;&emsp;&emsp;🌱 I’m currently learning and i'm a Software Engineering Student.<br> 
-&emsp;&emsp;&emsp;🤔 I’m looking for help with Java for Android and PHP.<br> 
+&emsp;&emsp;&emsp;🤔 I’m looking for help with Java for Android and Web developtment.<br> 
 &emsp;&emsp;&emsp;👯 I’m looking to collaborate on some projects...<br>
 &emsp;&emsp;&emsp;💬 Ask me about anything. Maybe i'll have the answer. Or not, anyway, will be a pleasure to help or talk. 
     
