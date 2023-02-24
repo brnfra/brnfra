@@ -1,7 +1,7 @@
 <hr>
 <div align="center" translate="yes">
   
-Hi there. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">😄. I'm computer science student 🌱, looking for learning, help and collaborate on Open Source projects and craft some cool things. It's amazing to learn together. Can I help you?
+Hi there. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">😄. I'm a computer science student 🌱 looking for learning, help and collaborate on Open Source projects and craft some cool things. It's amazing to learn together. Can I help you?
   
 </div>
 
